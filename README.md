@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Bharath Kumar</h1>
 <h3 align="center">A passionate Python Developer from India 🇮🇳</h3>
 
@@ -57,7 +63,3 @@
 
 ---
 
-<h3 align="center">🎉 Just for Fun</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
