@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm  Y Bharath Kumar</h1>
-<h3 align="center">A passionate Python Developer from India 🇮🇳</h3>
+<h3 align="center">A Passionate Python Developer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bharath609&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -20,7 +20,7 @@
 ---
 
 - 🔭 I’m currently working on **Job Board Project**
-- 🌱 I’m learning **Django, HTML, CSS**
+- 🌱 I’m learning **Data Analytics Using Python**
 - 📫 Reach me at: **ybharathkumar2003@gmail.com**
 
 ---
