@@ -4,7 +4,7 @@
 </p>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Bharath Kumar</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm  Y Bharath Kumar</h1>
 <h3 align="center">A passionate Python Developer from India 🇮🇳</h3>
 
 <p align="center">
