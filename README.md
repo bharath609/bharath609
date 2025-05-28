@@ -20,7 +20,7 @@
 ---
 
 - 🔭 I’m currently working on **Job Board Project**
-- 🌱 I’m learning **Django, HTML, CSS,PowerBI**
+- 🌱 I’m learning **Django, HTML, CSS**
 - 📫 Reach me at: **ybharathkumar2003@gmail.com**
 
 ---
