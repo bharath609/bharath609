@@ -20,7 +20,7 @@
 ---
 
 - 🔭 I’m currently working on **Job Board Project**
-- 🌱 I’m currently learning **Data Analytics Using Python**
+- 🌱 I’m currently learning **Python Full Stack Development**
 - 📫 Reach me at: **ybharathkumar2003@gmail.com**
 
 ---
