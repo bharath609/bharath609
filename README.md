@@ -1,22 +1,28 @@
 <div align="center">
-  <img src="assets/hero.svg" width="100%" alt="Y Bharath Kumar — AI Engineer | Java Full Stack Engineer | Cloud and DevOps" />
+  <img width="100%" src="assets/hero.svg" alt="Y Bharath Kumar — AI Engineer | Java Full Stack Engineer | Cloud and DevOps" />
 </div>
 
 <br/>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/y-bharath-kumar-5990b4263/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/bharath609"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://bharath609.github.io/YBharathKumar.portfolio/"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ybharathkumar2006@gmail.com&su=Hello%20Bharath"><img src="https://img.shields.io/badge/ybharathkumar2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=%3E+whoami;%3E+AI+Engineer+%7C+Java+Full+Stack+Engineer+%7C+Cloud+and+DevOps;%3E+building+RAG%2C+voice+agents+and+local-first+AI;%3E+status%3A+OPEN_TO_WORK" alt="Typing intro" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=bharath609&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" /> <img src="https://img.shields.io/github/followers/bharath609?style=for-the-badge&logo=github&color=00F7FF&label=FOLLOWERS&labelColor=0d1117" alt="Followers" /> <img src="https://img.shields.io/github/stars/bharath609?style=for-the-badge&logo=github&color=FFD700&label=STARS&labelColor=0d1117" alt="Stars" />
+<a href="https://www.linkedin.com/in/y-bharath-kumar-5990b4263/"><img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=0B0F1A" alt="LinkedIn" /></a> <a href="https://github.com/bharath609"><img src="https://img.shields.io/badge/GitHub-C724B1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://bharath609.github.io/YBharathKumar.portfolio/"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=0B0F1A" alt="Portfolio" /></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ybharathkumar2006@gmail.com&su=Hello%20Bharath"><img src="https://img.shields.io/badge/Email-C724B1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=bharath609&style=for-the-badge&label=PROFILE+VIEWS&color=00E5FF&labelColor=0B0F1A" alt="Profile views" /> <img src="https://img.shields.io/github/followers/bharath609?style=for-the-badge&logo=github&label=FOLLOWERS&color=C724B1&labelColor=0B0F1A" alt="Followers" /> <img src="https://img.shields.io/github/stars/bharath609?style=for-the-badge&logo=github&label=STARS&color=FFD700&labelColor=0B0F1A" alt="Stars" />
 
 </div>
 
----
+<div align="center">
+  <img width="100%" src="assets/divider.svg" alt="" />
+</div>
 
-## 🧠 About Me
+## 🧭 About Me
 
 I build **AI products end-to-end** — the retrieval and reasoning layer, the API behind it, and the interface people actually use. I like problems where the answer has to be *provably right*, not just plausible.
 
@@ -27,7 +33,9 @@ My base is **Java + Spring Boot** and **React**, and lately most of my time goes
 - ☁️ **Cloud & DevOps** — Azure, AWS, Docker, Linux, GitHub Actions, release automation
 - 🛡️ **Engineering hygiene** — test coverage, allowlists, approval boundaries, observable systems
 
----
+<div align="center">
+  <img width="100%" src="assets/divider.svg" alt="" />
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -57,7 +65,9 @@ My base is **Java + Spring Boot** and **React**, and lately most of my time goes
 
 </div>
 
----
+<div align="center">
+  <img width="100%" src="assets/divider.svg" alt="" />
+</div>
 
 ## 🚀 Featured Projects
 
@@ -127,7 +137,9 @@ My base is **Java + Spring Boot** and **React**, and lately most of my time goes
 </tr>
 </table>
 
----
+<div align="center">
+  <img width="100%" src="assets/divider.svg" alt="" />
+</div>
 
 ## 💼 Experience
 
@@ -163,7 +175,9 @@ My base is **Java + Spring Boot** and **React**, and lately most of my time goes
 </tr>
 </table>
 
----
+<div align="center">
+  <img width="100%" src="assets/divider.svg" alt="" />
+</div>
 
 ## 📜 Certifications
 
@@ -177,21 +191,25 @@ My base is **Java + Spring Boot** and **React**, and lately most of my time goes
 
 </div>
 
----
+<div align="center">
+  <img width="100%" src="assets/divider.svg" alt="" />
+</div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="62%" src="https://streak-stats.demolab.com/?user=bharath609&hide_border=true&background=0d1117&stroke=00F7FF&ring=FF1493&fire=FF1493&currStreakNum=00F7FF&sideNums=00F7FF&currStreakLabel=FF1493&sideLabels=FF1493&dates=c9d1d9" alt="GitHub streak" />
+<img width="62%" src="https://streak-stats.demolab.com/?user=bharath609&hide_border=true&background=0d1117&stroke=00E5FF&ring=C724B1&fire=C724B1&currStreakNum=00E5FF&sideNums=00E5FF&currStreakLabel=C724B1&sideLabels=C724B1&dates=c9d1d9" alt="GitHub streak" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbharath609&query=public_repos&label=PUBLIC+REPOS&color=7C3AED&labelColor=0d1117&style=for-the-badge&logo=github" alt="Public repositories" /> <img src="https://img.shields.io/github/last-commit/bharath609/BRO-Local-AI-Assistant?style=for-the-badge&logo=github&label=LAST+COMMIT&color=FF1493&labelColor=0d1117" alt="Last commit" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbharath609&query=public_repos&label=PUBLIC+REPOS&color=C724B1&labelColor=0B0F1A&style=for-the-badge&logo=github" alt="Public repositories" /> <img src="https://img.shields.io/github/last-commit/bharath609/BRO-Local-AI-Assistant?style=for-the-badge&logo=github&label=LAST+COMMIT&color=00E5FF&labelColor=0B0F1A" alt="Last commit" />
 
 </div>
 
----
+<div align="center">
+  <img width="100%" src="assets/divider.svg" alt="" />
+</div>
 
 ## 🌐 Let's Connect
 
@@ -201,12 +219,10 @@ Open to <b>AI Engineer</b>, <b>Java Full Stack</b> and <b>Cloud &amp; DevOps</b>
 
 <br/><br/>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ybharathkumar2006@gmail.com&su=Hello%20Bharath"><img src="https://img.shields.io/badge/Email_Me-ybharathkumar2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://www.linkedin.com/in/y-bharath-kumar-5990b4263/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://bharath609.github.io/YBharathKumar.portfolio/"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a> <a href="https://wa.me/918519828505"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ybharathkumar2006@gmail.com&su=Hello%20Bharath"><img src="https://img.shields.io/badge/Email_Me-ybharathkumar2006%40gmail.com-C724B1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://www.linkedin.com/in/y-bharath-kumar-5990b4263/"><img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=0B0F1A" alt="LinkedIn" /></a> <a href="https://bharath609.github.io/YBharathKumar.portfolio/"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=0B0F1A" alt="Portfolio" /></a> <a href="https://wa.me/918519828505"><img src="https://img.shields.io/badge/WhatsApp-C724B1?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 
 </div>
 
----
-
 <div align="center">
-  <img src="assets/footer.svg" width="100%" alt="Thanks for visiting" />
+  <img width="100%" src="assets/footer.svg" alt="Thanks for visiting" />
 </div>

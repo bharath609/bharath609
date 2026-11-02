@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-label="Thanks for visiting">
   <defs>
     <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#00F7FF"/>
-      <stop offset="0.5" stop-color="#7C3AED"/>
-      <stop offset="1" stop-color="#FF1493"/>
+      <stop offset="0" stop-color="#00E5FF"/>
+      <stop offset="0.5" stop-color="#6D2A86"/>
+      <stop offset="1" stop-color="#C724B1"/>
     </linearGradient>
     <clipPath id="frame"><rect y="1" width="1200" height="108" rx="16"/></clipPath>
   </defs>
