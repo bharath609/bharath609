@@ -24,7 +24,7 @@ My base is **Java + Spring Boot** and **React**, and lately most of my time goes
 
 - 🤖 **AI Engineering** — RAG, embeddings, vector retrieval, relevance gating, citation grounding
 - ☕ **Full Stack** — Spring Boot and FastAPI services, React + Vite front ends
-- ☁️ **Cloud & DevOps** — Azure, Docker, Linux, GitHub Actions, release automation
+- ☁️ **Cloud & DevOps** — Azure, AWS, Docker, Linux, GitHub Actions, release automation
 - 🛡️ **Engineering hygiene** — test coverage, allowlists, approval boundaries, observable systems
 
 ---
@@ -37,13 +37,19 @@ My base is **Java + Spring Boot** and **React**, and lately most of my time goes
 
 <img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logo=databricks&logoColor=FF3621" alt="RAG" /> <img src="https://img.shields.io/badge/Embeddings-0d1117?style=for-the-badge&logo=openai&logoColor=white" alt="Embeddings" /> <img src="https://img.shields.io/badge/Vector_Search-0d1117?style=for-the-badge&logo=elasticsearch&logoColor=00BFB3" alt="Vector search" /> <img src="https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" /> <img src="https://img.shields.io/badge/Anthropic-0d1117?style=for-the-badge&logo=anthropic&logoColor=D4A27F" alt="Anthropic" /> <img src="https://img.shields.io/badge/ChromaDB-0d1117?style=for-the-badge&logo=databricks&logoColor=FF6B35" alt="ChromaDB" />
 
+<br/><br/>
+
 <p><b>Languages &amp; Frameworks</b></p>
 
 <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,ts,js,nodejs,express,react,vite,html,css,tailwind&theme=dark&perline=13" alt="Languages and frameworks" />
 
+<br/><br/>
+
 <p><b>Cloud &amp; DevOps</b></p>
 
-<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,githubactions,linux,git,github,nginx,vercel&theme=dark&perline=9" alt="Cloud and DevOps" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,linux,git,github,nginx,vercel&theme=dark&perline=10" alt="Cloud and DevOps" />
+
+<br/><br/>
 
 <p><b>Databases &amp; Tools</b></p>
 
@@ -63,8 +69,7 @@ My base is **Java + Spring Boot** and **React**, and lately most of my time goes
     <img src="assets/lumora.svg" width="100%" alt="Lumora — grounded RAG chatbot" />
   </a>
   <p align="center">
-    <a href="https://bharath609.github.io/lumora-rag-chatbot/"><img src="https://img.shields.io/badge/Live_Demo-00F7FF?style=flat-square&logo=googlechrome&logoColor=black" alt="Live demo" /></a>
-    <a href="https://github.com/bharath609/lumora-rag-chatbot"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source" /></a>
+    <a href="https://bharath609.github.io/lumora-rag-chatbot/"><img src="https://img.shields.io/badge/Live_Demo-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo" /></a> <a href="https://github.com/bharath609/lumora-rag-chatbot"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
   </p>
 </td>
 
@@ -73,8 +78,7 @@ My base is **Java + Spring Boot** and **React**, and lately most of my time goes
     <img src="assets/optisolve.svg" width="100%" alt="OptiSolve.ai — AI operations research solver" />
   </a>
   <p align="center">
-    <a href="https://bharath609.github.io/optisolve.ai/"><img src="https://img.shields.io/badge/Live_Demo-00F7FF?style=flat-square&logo=googlechrome&logoColor=black" alt="Live demo" /></a>
-    <a href="https://github.com/bharath609/optisolve.ai"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source" /></a>
+    <a href="https://bharath609.github.io/optisolve.ai/"><img src="https://img.shields.io/badge/Live_Demo-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo" /></a> <a href="https://github.com/bharath609/optisolve.ai"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
   </p>
 </td>
 
@@ -86,7 +90,7 @@ My base is **Java + Spring Boot** and **React**, and lately most of my time goes
     <img src="assets/bro.svg" width="100%" alt="BRO — local-first voice assistant" />
   </a>
   <p align="center">
-    <a href="https://github.com/bharath609/BRO-Local-AI-Assistant"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source" /></a>
+    <a href="https://github.com/bharath609/BRO-Local-AI-Assistant"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
   </p>
 </td>
 
@@ -95,8 +99,7 @@ My base is **Java + Spring Boot** and **React**, and lately most of my time goes
     <img src="assets/portfolio.svg" width="100%" alt="Personal portfolio" />
   </a>
   <p align="center">
-    <a href="https://bharath609.github.io/YBharathKumar.portfolio/"><img src="https://img.shields.io/badge/Live_Site-00F7FF?style=flat-square&logo=googlechrome&logoColor=black" alt="Live site" /></a>
-    <a href="https://github.com/bharath609/YBharathKumar.portfolio"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source" /></a>
+    <a href="https://bharath609.github.io/YBharathKumar.portfolio/"><img src="https://img.shields.io/badge/Live_Site-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live site" /></a> <a href="https://github.com/bharath609/YBharathKumar.portfolio"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
   </p>
 </td>
 
@@ -108,7 +111,7 @@ My base is **Java + Spring Boot** and **React**, and lately most of my time goes
     <img src="assets/scoreboard.svg" width="100%" alt="Live cricket scoreboard — JavaFX and MySQL" />
   </a>
   <p align="center">
-    <a href="https://github.com/bharath609/Score_Board_Using_Java"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source" /></a>
+    <a href="https://github.com/bharath609/Score_Board_Using_Java"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
   </p>
 </td>
 
@@ -117,7 +120,7 @@ My base is **Java + Spring Boot** and **React**, and lately most of my time goes
     <img src="assets/more.svg" width="100%" alt="More projects" />
   </a>
   <p align="center">
-    <a href="https://github.com/bharath609?tab=repositories"><img src="https://img.shields.io/badge/All_Repositories-00F7FF?style=flat-square&logo=github&logoColor=black" alt="All repositories" /></a>
+    <a href="https://github.com/bharath609?tab=repositories"><img src="https://img.shields.io/badge/All_Repositories-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
   </p>
 </td>
 
@@ -160,14 +163,17 @@ My base is **Java + Spring Boot** and **React**, and lately most of my time goes
 </tr>
 </table>
 
+---
+
+## 📜 Certifications
+
 <div align="center">
+
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=232F3E" alt="AWS Certified Cloud Practitioner" /> <img src="https://img.shields.io/badge/CVCORP-Full_Stack_Java-C2185B?style=for-the-badge&labelColor=0d1117" alt="Full Stack Java Development" /> <img src="https://img.shields.io/badge/Columbia%2B-Prompt_Engineering-0891B2?style=for-the-badge&labelColor=0d1117" alt="Prompt Engineering" />
 
 <br/>
 
-<p><b>Certifications</b></p>
-
-<img src="https://img.shields.io/badge/Full_Stack_Java_Development-CVCORP-FF1493?style=for-the-badge&labelColor=0d1117" alt="Full Stack Java Development" /> <img src="https://img.shields.io/badge/Prompt_Engineering_%26_OpenAI-Columbia%2B-00F7FF?style=for-the-badge&labelColor=0d1117" alt="Prompt Engineering" />
-<img src="https://img.shields.io/badge/Front_End_Development_·_HTML5_CSS3_JS-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white&labelColor=0d1117" alt="Front End Development" /> <img src="https://img.shields.io/badge/Data_Analytics_·_Excel_%26_Python-Great_Learning-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Data Analytics" />
+<img src="https://img.shields.io/badge/Udemy-Front_End_Development-A435F0?style=for-the-badge&logo=udemy&logoColor=white&labelColor=0d1117" alt="Front End Development" /> <img src="https://img.shields.io/badge/Great_Learning-Data_Analytics-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Data Analytics" />
 
 </div>
 
@@ -177,17 +183,11 @@ My base is **Java + Spring Boot** and **React**, and lately most of my time goes
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharath609&theme=radical" alt="GitHub profile summary" />
+<img width="62%" src="https://streak-stats.demolab.com/?user=bharath609&hide_border=true&background=0d1117&stroke=00F7FF&ring=FF1493&fire=FF1493&currStreakNum=00F7FF&sideNums=00F7FF&currStreakLabel=FF1493&sideLabels=FF1493&dates=c9d1d9" alt="GitHub streak" />
 
-<br/><br/>
+<br/>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bharath609&theme=radical" alt="Repos per language" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bharath609&theme=radical" alt="Most commit language" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bharath609&theme=radical" alt="GitHub stats" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=bharath609&hide_border=true&background=0d1117&stroke=00F7FF&ring=FF1493&fire=FF1493&currStreakNum=00F7FF&sideNums=00F7FF&currStreakLabel=FF1493&sideLabels=FF1493&dates=c9d1d9" alt="GitHub streak" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbharath609&query=public_repos&label=PUBLIC+REPOS&color=7C3AED&labelColor=0d1117&style=for-the-badge&logo=github" alt="Public repositories" /> <img src="https://img.shields.io/github/last-commit/bharath609/BRO-Local-AI-Assistant?style=for-the-badge&logo=github&label=LAST+COMMIT&color=FF1493&labelColor=0d1117" alt="Last commit" />
 
 </div>
 
