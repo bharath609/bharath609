@@ -71,67 +71,99 @@ My base is **Java + Spring Boot** and **React**, and lately most of my time goes
 
 ## 🚀 Featured Projects
 
+<p>Six builds that cover the stack I work across — retrieval and reasoning, optimisation, local-first voice, frontend delivery and classic Java. Each one is shipped and documented.</p>
+
 <table>
 <tr>
 
 <td width="50%" valign="top">
-  <a href="https://github.com/bharath609/lumora-rag-chatbot">
-    <img src="assets/lumora.svg" width="100%" alt="Lumora — grounded RAG chatbot" />
-  </a>
-  <p align="center">
-    <a href="https://bharath609.github.io/lumora-rag-chatbot/"><img src="https://img.shields.io/badge/Live_Demo-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo" /></a> <a href="https://github.com/bharath609/lumora-rag-chatbot"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
-  </p>
+
+<img src="https://img.shields.io/badge/AI_RAG_FULL_STACK-00E5FF?style=for-the-badge&labelColor=0B0F1A" alt="AI, RAG, full stack" />
+
+### 🌌 Lumora
+
+Grounded RAG chatbot that answers from your own documents and cites every claim. A verification pass flags unsupported statements before they ever reach the user.
+
+`Python` `FastAPI` `React` `ChromaDB` `Ollama`
+
+<a href="https://bharath609.github.io/lumora-rag-chatbot/"><img src="https://img.shields.io/badge/Live_Demo-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo" /></a> <a href="https://github.com/bharath609/lumora-rag-chatbot"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
+
 </td>
 
 <td width="50%" valign="top">
-  <a href="https://github.com/bharath609/optisolve.ai">
-    <img src="assets/optisolve.svg" width="100%" alt="OptiSolve.ai — AI operations research solver" />
-  </a>
-  <p align="center">
-    <a href="https://bharath609.github.io/optisolve.ai/"><img src="https://img.shields.io/badge/Live_Demo-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo" /></a> <a href="https://github.com/bharath609/optisolve.ai"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
-  </p>
-</td>
 
-</tr>
-<tr>
+<img src="https://img.shields.io/badge/AI_OPTIMISATION-8B5CF6?style=for-the-badge&labelColor=0B0F1A" alt="AI optimisation" />
 
-<td width="50%" valign="top">
-  <a href="https://github.com/bharath609/BRO-Local-AI-Assistant">
-    <img src="assets/bro.svg" width="100%" alt="BRO — local-first voice assistant" />
-  </a>
-  <p align="center">
-    <a href="https://github.com/bharath609/BRO-Local-AI-Assistant"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
-  </p>
-</td>
+### 🎯 OptiSolve.ai
 
-<td width="50%" valign="top">
-  <a href="https://github.com/bharath609/YBharathKumar.portfolio">
-    <img src="assets/portfolio.svg" width="100%" alt="Personal portfolio" />
-  </a>
-  <p align="center">
-    <a href="https://bharath609.github.io/YBharathKumar.portfolio/"><img src="https://img.shields.io/badge/Live_Site-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live site" /></a> <a href="https://github.com/bharath609/YBharathKumar.portfolio"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
-  </p>
+Describe a planning problem in plain English and get a mathematically optimal plan back. LLM parsing sits on top of a real linear-programming solver.
+
+`React` `TypeScript` `FastAPI` `HiGHS`
+
+<a href="https://bharath609.github.io/optisolve.ai/"><img src="https://img.shields.io/badge/Live_Demo-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo" /></a> <a href="https://github.com/bharath609/optisolve.ai"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
+
 </td>
 
 </tr>
 <tr>
 
 <td width="50%" valign="top">
-  <a href="https://github.com/bharath609/Score_Board_Using_Java">
-    <img src="assets/scoreboard.svg" width="100%" alt="Live cricket scoreboard — JavaFX and MySQL" />
-  </a>
-  <p align="center">
-    <a href="https://github.com/bharath609/Score_Board_Using_Java"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
-  </p>
+
+<img src="https://img.shields.io/badge/VOICE_AI_DESKTOP-C724B1?style=for-the-badge&labelColor=0B0F1A" alt="Voice AI desktop" />
+
+### 🎙️ BRO Local Assistant
+
+Local-first desktop voice assistant. Wake-word capture and offline speech-to-text stay on the machine, and every action waits behind an explicit approval boundary.
+
+`Node.js` `Electron` `whisper.cpp` `JavaScript`
+
+<a href="https://github.com/bharath609/BRO-Local-AI-Assistant"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
+
 </td>
 
 <td width="50%" valign="top">
-  <a href="https://github.com/bharath609?tab=repositories">
-    <img src="assets/more.svg" width="100%" alt="More projects" />
-  </a>
-  <p align="center">
-    <a href="https://github.com/bharath609?tab=repositories"><img src="https://img.shields.io/badge/All_Repositories-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
-  </p>
+
+<img src="https://img.shields.io/badge/FRONTEND_CICD-10B981?style=for-the-badge&labelColor=0B0F1A" alt="Frontend and CI/CD" />
+
+### 💼 Personal Portfolio
+
+Case studies, live demos and the engineering story behind each build. Statically built with Vite and shipped automatically through GitHub Actions.
+
+`React` `Vite` `GitHub Pages` `GitHub Actions`
+
+<a href="https://bharath609.github.io/YBharathKumar.portfolio/"><img src="https://img.shields.io/badge/Live_Site-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live site" /></a> <a href="https://github.com/bharath609/YBharathKumar.portfolio"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/JAVA_DESKTOP_SQL-F59E0B?style=for-the-badge&labelColor=0B0F1A" alt="Java desktop SQL" />
+
+### 🏏 Live Scoreboard
+
+Ball-by-ball cricket scoring built as a JavaFX desktop app. Every delivery is persisted through JDBC so any match can be reloaded and reviewed later.
+
+`Java` `JavaFX` `MySQL` `JDBC`
+
+<a href="https://github.com/bharath609/Score_Board_Using_Java"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/LEARNING_BUILDS-64748B?style=for-the-badge&labelColor=0B0F1A" alt="Learning builds" />
+
+### 🧩 More Projects
+
+CRUD apps, authentication flows, billing modules and Django builds — the full application lifecycle practice sitting behind the featured work.
+
+`Django` `Python` `HTML` `CSS` `JavaScript`
+
+<a href="https://github.com/bharath609?tab=repositories"><img src="https://img.shields.io/badge/All_Repositories-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
+
 </td>
 
 </tr>
