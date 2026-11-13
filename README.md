@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="assets/hero.svg" alt="Y Bharath Kumar — AI Engineer | Java Full Stack Engineer | Cloud and DevOps" />
+  <img width="100%" src="assets/hero.svg?v=2" alt="Y Bharath Kumar — AI Engineer | Java Full Stack Engineer | Cloud and DevOps" />
 </div>
 
 <br/>
